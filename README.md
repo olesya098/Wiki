@@ -4,10 +4,14 @@
 
  
  ![image](https://github.com/user-attachments/assets/f7c00cff-e837-47dd-8d3f-78355e9342b8)
+
+
+
 3. Открыть программу intellij idea и в этой программе открыть заранее распакованный файл
 4. Запустить программу нажав на:
 
  
  
  ![image](https://github.com/user-attachments/assets/fa7a5c14-e667-49b8-9ecc-d0d99e9aecd5)
+
 5. Программа должна найти максимальную сумму квадратов двух элементов массива из сгенерированных чисел 
